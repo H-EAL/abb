@@ -1,0 +1,4 @@
+projects/vs2017/.vs/
+bin/
+temp/
+*.user
